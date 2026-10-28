@@ -353,7 +353,7 @@
 		"repository": "https://github.com/ibanks42/opendeck-m18",
 		"description": "An unofficial OpenDeck plugin for Mirabox M18 / VSD Inside M18-family devices"
 	},
-	"com.masterhub.opendeck": {
+	"pl.kobylarek.masterhub": {
 		"name": "Cooler Master MasterHUB",
 		"author": "Kamil Kobylarek",
 		"repository": "https://github.com/KamilKobylarek/opendeck-masterhub",
